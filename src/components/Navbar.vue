@@ -8,7 +8,7 @@
       </div>
       <div class="nav-center">
         <div class="nav-item">
-          <router-link to="/home" class="nav-link">Home</router-link>
+          <router-link to="/" class="nav-link">Home</router-link>
 
         </div>
       </div>
