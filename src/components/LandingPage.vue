@@ -25,7 +25,7 @@
     </div>
     <div class="landing-comp-right">
       <div class="profile-pic">
-        <img src="../assets/profilepic.png" alt="profileImage" />
+        <img class="pro-image" src="../assets/profilepic_enhanced.png" alt="profileImage" />
       </div>
     </div>
     <div class="element-shape-1"></div>
